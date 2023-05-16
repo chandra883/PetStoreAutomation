@@ -1,0 +1,62 @@
+10:05:32.062 [main] INFO  api.test.UserTests - **************CREATE USER*********************
+10:05:36.149 [main] INFO  api.test.UserTests - **************USER IS CREATED*********************
+10:05:36.171 [main] INFO  api.test.UserTests - **************GET USER BY NAME*********************
+10:05:38.306 [main] INFO  api.test.UserTests - **************USER FECTHED BY NAME*********************
+10:05:38.312 [main] INFO  api.test.UserTests - **************UPDATE USER*********************
+10:05:42.396 [main] INFO  api.test.UserTests - **************USER DETAILS UPDATED*********************
+10:05:42.400 [main] INFO  api.test.UserTests - **************DELETE USER*********************
+10:05:44.545 [main] INFO  api.test.UserTests - **************USER DELETED SUCCESSFULLY*********************
+10:07:33.771 [main] INFO  api.test.UserTests - **************CREATE USER*********************
+10:07:37.356 [main] INFO  api.test.UserTests - **************USER IS CREATED*********************
+10:07:37.368 [main] INFO  api.test.UserTests - **************GET USER BY NAME*********************
+10:07:39.342 [main] INFO  api.test.UserTests - **************USER FECTHED BY NAME*********************
+10:07:39.350 [main] INFO  api.test.UserTests - **************UPDATE USER*********************
+10:07:43.432 [main] INFO  api.test.UserTests - **************USER DETAILS UPDATED*********************
+10:07:43.438 [main] INFO  api.test.UserTests - **************DELETE USER*********************
+10:07:45.423 [main] INFO  api.test.UserTests - **************USER DELETED SUCCESSFULLY*********************
+10:35:45.850 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+10:35:45.889 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+10:35:45.893 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+10:35:45.902 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+10:41:00.692 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+10:41:00.710 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+10:41:00.716 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+10:41:00.725 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+10:43:59.504 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+10:44:03.204 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+10:44:04.886 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+10:44:08.023 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+10:47:38.923 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+10:47:42.126 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+10:47:43.813 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+10:47:46.954 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+10:48:32.390 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+10:48:35.777 [main] INFO  api.test.UserTestsPropertiesfile - **************USER IS CREATED*********************
+10:48:35.787 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+10:48:37.472 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+10:48:40.610 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+10:48:42.039 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DELETED SUCCESSFULLY*********************
+10:49:33.927 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+10:49:37.108 [main] INFO  api.test.UserTestsPropertiesfile - **************USER IS CREATED*********************
+10:49:37.120 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+10:49:38.772 [main] INFO  api.test.UserTestsPropertiesfile - **************USER FECTHED BY NAME*********************
+10:49:38.776 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+10:49:41.737 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DETAILS UPDATED*********************
+10:49:41.741 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+10:49:43.273 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DELETED SUCCESSFULLY*********************
+11:06:32.490 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+11:06:35.420 [main] INFO  api.test.UserTestsPropertiesfile - **************USER IS CREATED*********************
+11:06:35.432 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+11:06:36.802 [main] INFO  api.test.UserTestsPropertiesfile - **************USER FECTHED BY NAME*********************
+11:06:36.804 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+11:06:40.116 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DETAILS UPDATED*********************
+11:06:40.118 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+11:06:41.524 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DELETED SUCCESSFULLY*********************
+11:29:52.069 [main] INFO  api.test.UserTestsPropertiesfile - **************CREATE USER*********************
+11:29:55.515 [main] INFO  api.test.UserTestsPropertiesfile - **************USER IS CREATED*********************
+11:29:55.527 [main] INFO  api.test.UserTestsPropertiesfile - **************GET USER BY NAME*********************
+11:29:56.846 [main] INFO  api.test.UserTestsPropertiesfile - **************USER FECTHED BY NAME*********************
+11:29:56.850 [main] INFO  api.test.UserTestsPropertiesfile - **************UPDATE USER*********************
+11:29:59.455 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DETAILS UPDATED*********************
+11:29:59.460 [main] INFO  api.test.UserTestsPropertiesfile - **************DELETE USER*********************
+11:30:00.746 [main] INFO  api.test.UserTestsPropertiesfile - **************USER DELETED SUCCESSFULLY*********************
